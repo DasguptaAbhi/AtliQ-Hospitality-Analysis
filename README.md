@@ -39,4 +39,4 @@ Atliq Grands owns multiple five-star hotels across India. They have been in the 
 ### 🛠 Technologies Used
 - Excel,Power BI
 
-**Interactive Dashbord Link -** 
+**Interactive Dashbord Link -** [Hospitality analysis viz](https://app.powerbi.com/view?r=eyJrIjoiM2ZiZGY3NzEtYzY5Zi00NDc2LWE5NjUtZWEyMDE0MjBhYzE5IiwidCI6IjEyMzM5ZGVkLTZmZjctNDE5ZS04MjA2LWFmNTA2NzUyMmYxYyJ9)
